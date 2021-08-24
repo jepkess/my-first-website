@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+}
+.container{
+    background-color:rgb(150, 150, 219);
+    text-align: center;
+    width: 60%;
+   margin-left: 40px;
+   border-radius: 10px;
+}
+.container>ul>li{
+    list-style: none;
+}
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+  }
+  ul{
+      line-height: 40px;
+  }
